@@ -1,0 +1,251 @@
+merchant_id,merchant_category,country,risk_segment
+MERCH0001,Grocery,GB,Medium
+MERCH0002,Fashion,GB,Medium
+MERCH0003,Electronics,GB,Low
+MERCH0004,Grocery,GB,Low
+MERCH0005,Electronics,GB,Low
+MERCH0006,Electronics,GB,Low
+MERCH0007,Electronics,GB,Low
+MERCH0008,Grocery,GB,Low
+MERCH0009,Fashion,GB,Low
+MERCH0010,Fashion,GB,Medium
+MERCH0011,Grocery,GB,Low
+MERCH0012,Travel,GB,Low
+MERCH0013,Electronics,GB,Medium
+MERCH0014,Grocery,GB,Low
+MERCH0015,Digital Services,GB,Low
+MERCH0016,Fashion,GB,Low
+MERCH0017,Travel,GB,Low
+MERCH0018,Electronics,GB,Low
+MERCH0019,Fashion,GB,Low
+MERCH0020,Travel,GB,Low
+MERCH0021,Electronics,GB,High
+MERCH0022,Grocery,GB,High
+MERCH0023,Electronics,GB,Low
+MERCH0024,Grocery,GB,Low
+MERCH0025,Digital Services,GB,Low
+MERCH0026,Digital Services,GB,Medium
+MERCH0027,Digital Services,GB,Medium
+MERCH0028,Fashion,GB,Low
+MERCH0029,Grocery,GB,Low
+MERCH0030,Fashion,GB,Low
+MERCH0031,Travel,GB,Medium
+MERCH0032,Travel,GB,Medium
+MERCH0033,Electronics,GB,Low
+MERCH0034,Grocery,GB,Low
+MERCH0035,Digital Services,GB,Low
+MERCH0036,Travel,GB,Medium
+MERCH0037,Electronics,GB,High
+MERCH0038,Electronics,GB,Low
+MERCH0039,Digital Services,GB,Low
+MERCH0040,Travel,GB,Low
+MERCH0041,Electronics,GB,Low
+MERCH0042,Fashion,GB,Medium
+MERCH0043,Grocery,GB,Low
+MERCH0044,Grocery,GB,Medium
+MERCH0045,Digital Services,GB,Low
+MERCH0046,Electronics,GB,Low
+MERCH0047,Digital Services,GB,Low
+MERCH0048,Digital Services,GB,Low
+MERCH0049,Grocery,GB,Low
+MERCH0050,Electronics,GB,Medium
+MERCH0051,Fashion,GB,Low
+MERCH0052,Grocery,GB,Low
+MERCH0053,Fashion,GB,Low
+MERCH0054,Electronics,GB,Low
+MERCH0055,Digital Services,GB,Medium
+MERCH0056,Electronics,GB,High
+MERCH0057,Digital Services,GB,Low
+MERCH0058,Travel,GB,Medium
+MERCH0059,Digital Services,GB,Medium
+MERCH0060,Grocery,GB,High
+MERCH0061,Electronics,GB,Low
+MERCH0062,Electronics,GB,Low
+MERCH0063,Electronics,GB,Low
+MERCH0064,Travel,GB,Medium
+MERCH0065,Electronics,GB,Medium
+MERCH0066,Electronics,GB,Low
+MERCH0067,Digital Services,GB,Low
+MERCH0068,Grocery,GB,Medium
+MERCH0069,Grocery,GB,Medium
+MERCH0070,Grocery,GB,Low
+MERCH0071,Fashion,GB,Medium
+MERCH0072,Fashion,GB,Low
+MERCH0073,Fashion,GB,Low
+MERCH0074,Electronics,GB,Low
+MERCH0075,Grocery,GB,Medium
+MERCH0076,Digital Services,GB,High
+MERCH0077,Electronics,GB,Low
+MERCH0078,Fashion,GB,Low
+MERCH0079,Fashion,GB,Low
+MERCH0080,Travel,GB,Low
+MERCH0081,Digital Services,GB,Low
+MERCH0082,Fashion,GB,Low
+MERCH0083,Fashion,GB,Low
+MERCH0084,Fashion,GB,Low
+MERCH0085,Grocery,GB,Low
+MERCH0086,Digital Services,GB,Medium
+MERCH0087,Electronics,GB,Low
+MERCH0088,Grocery,GB,Medium
+MERCH0089,Fashion,GB,High
+MERCH0090,Travel,GB,Low
+MERCH0091,Grocery,GB,Low
+MERCH0092,Travel,GB,Low
+MERCH0093,Electronics,GB,Low
+MERCH0094,Digital Services,GB,Low
+MERCH0095,Travel,GB,Low
+MERCH0096,Travel,GB,Low
+MERCH0097,Fashion,GB,Low
+MERCH0098,Electronics,GB,Low
+MERCH0099,Grocery,GB,Medium
+MERCH0100,Travel,GB,Low
+MERCH0101,Travel,GB,Low
+MERCH0102,Fashion,GB,Medium
+MERCH0103,Grocery,GB,Low
+MERCH0104,Electronics,GB,Medium
+MERCH0105,Travel,GB,Low
+MERCH0106,Fashion,GB,Low
+MERCH0107,Grocery,GB,High
+MERCH0108,Electronics,GB,Low
+MERCH0109,Travel,GB,Low
+MERCH0110,Travel,GB,High
+MERCH0111,Fashion,GB,Medium
+MERCH0112,Electronics,GB,Medium
+MERCH0113,Digital Services,GB,Low
+MERCH0114,Electronics,GB,Low
+MERCH0115,Grocery,GB,Medium
+MERCH0116,Electronics,GB,Low
+MERCH0117,Travel,GB,Low
+MERCH0118,Fashion,GB,Medium
+MERCH0119,Travel,GB,Low
+MERCH0120,Electronics,GB,Low
+MERCH0121,Electronics,GB,Low
+MERCH0122,Digital Services,GB,Low
+MERCH0123,Digital Services,GB,Medium
+MERCH0124,Travel,GB,Medium
+MERCH0125,Fashion,GB,Low
+MERCH0126,Travel,GB,Low
+MERCH0127,Digital Services,GB,Low
+MERCH0128,Digital Services,GB,Low
+MERCH0129,Fashion,GB,Low
+MERCH0130,Fashion,GB,High
+MERCH0131,Grocery,GB,Low
+MERCH0132,Electronics,GB,Low
+MERCH0133,Digital Services,GB,High
+MERCH0134,Electronics,GB,Low
+MERCH0135,Travel,GB,High
+MERCH0136,Fashion,GB,Low
+MERCH0137,Electronics,GB,Low
+MERCH0138,Grocery,GB,High
+MERCH0139,Digital Services,GB,Low
+MERCH0140,Grocery,GB,Low
+MERCH0141,Grocery,GB,Low
+MERCH0142,Travel,GB,Medium
+MERCH0143,Fashion,GB,Low
+MERCH0144,Digital Services,GB,Low
+MERCH0145,Digital Services,GB,Medium
+MERCH0146,Fashion,GB,Medium
+MERCH0147,Electronics,GB,Low
+MERCH0148,Travel,GB,Low
+MERCH0149,Grocery,GB,Low
+MERCH0150,Digital Services,GB,Low
+MERCH0151,Digital Services,GB,Low
+MERCH0152,Fashion,GB,Low
+MERCH0153,Travel,GB,Low
+MERCH0154,Digital Services,GB,Low
+MERCH0155,Digital Services,GB,Medium
+MERCH0156,Fashion,GB,Low
+MERCH0157,Digital Services,GB,High
+MERCH0158,Grocery,GB,High
+MERCH0159,Grocery,GB,Low
+MERCH0160,Fashion,GB,High
+MERCH0161,Electronics,GB,Medium
+MERCH0162,Electronics,GB,Low
+MERCH0163,Electronics,GB,Medium
+MERCH0164,Electronics,GB,Low
+MERCH0165,Digital Services,GB,Medium
+MERCH0166,Digital Services,GB,Low
+MERCH0167,Electronics,GB,Low
+MERCH0168,Digital Services,GB,Low
+MERCH0169,Electronics,GB,High
+MERCH0170,Electronics,GB,Low
+MERCH0171,Grocery,GB,Low
+MERCH0172,Electronics,GB,Low
+MERCH0173,Fashion,GB,Low
+MERCH0174,Grocery,GB,Medium
+MERCH0175,Grocery,GB,Medium
+MERCH0176,Digital Services,GB,Low
+MERCH0177,Fashion,GB,Low
+MERCH0178,Electronics,GB,Low
+MERCH0179,Fashion,GB,Low
+MERCH0180,Digital Services,GB,Medium
+MERCH0181,Digital Services,GB,Medium
+MERCH0182,Travel,GB,Low
+MERCH0183,Digital Services,GB,Low
+MERCH0184,Grocery,GB,Low
+MERCH0185,Digital Services,GB,Low
+MERCH0186,Electronics,GB,Low
+MERCH0187,Fashion,GB,Medium
+MERCH0188,Travel,GB,Low
+MERCH0189,Grocery,GB,High
+MERCH0190,Travel,GB,Low
+MERCH0191,Fashion,GB,Low
+MERCH0192,Digital Services,GB,Low
+MERCH0193,Digital Services,GB,Low
+MERCH0194,Grocery,GB,Low
+MERCH0195,Travel,GB,Low
+MERCH0196,Fashion,GB,Medium
+MERCH0197,Digital Services,GB,Low
+MERCH0198,Travel,GB,Medium
+MERCH0199,Fashion,GB,Medium
+MERCH0200,Travel,GB,Low
+MERCH0201,Grocery,GB,Low
+MERCH0202,Electronics,GB,Low
+MERCH0203,Travel,GB,Low
+MERCH0204,Digital Services,GB,Medium
+MERCH0205,Electronics,GB,High
+MERCH0206,Digital Services,GB,Low
+MERCH0207,Travel,GB,Low
+MERCH0208,Electronics,GB,Medium
+MERCH0209,Travel,GB,Medium
+MERCH0210,Electronics,GB,Low
+MERCH0211,Electronics,GB,Medium
+MERCH0212,Travel,GB,Low
+MERCH0213,Digital Services,GB,Low
+MERCH0214,Digital Services,GB,Low
+MERCH0215,Digital Services,GB,Low
+MERCH0216,Travel,GB,Medium
+MERCH0217,Electronics,GB,Low
+MERCH0218,Fashion,GB,Low
+MERCH0219,Fashion,GB,Low
+MERCH0220,Digital Services,GB,Low
+MERCH0221,Fashion,GB,Low
+MERCH0222,Digital Services,GB,Low
+MERCH0223,Grocery,GB,Medium
+MERCH0224,Travel,GB,Low
+MERCH0225,Fashion,GB,Medium
+MERCH0226,Electronics,GB,Low
+MERCH0227,Electronics,GB,Medium
+MERCH0228,Grocery,GB,Medium
+MERCH0229,Digital Services,GB,Low
+MERCH0230,Travel,GB,Low
+MERCH0231,Grocery,GB,High
+MERCH0232,Travel,GB,Low
+MERCH0233,Grocery,GB,Medium
+MERCH0234,Fashion,GB,Low
+MERCH0235,Grocery,GB,Low
+MERCH0236,Grocery,GB,Low
+MERCH0237,Grocery,GB,Medium
+MERCH0238,Grocery,GB,Low
+MERCH0239,Electronics,GB,Medium
+MERCH0240,Grocery,GB,Medium
+MERCH0241,Travel,GB,Low
+MERCH0242,Travel,GB,Low
+MERCH0243,Electronics,GB,Low
+MERCH0244,Digital Services,GB,Low
+MERCH0245,Electronics,GB,Medium
+MERCH0246,Electronics,GB,Low
+MERCH0247,Digital Services,GB,Low
+MERCH0248,Digital Services,GB,Medium
+MERCH0249,Grocery,GB,Low
+MERCH0250,Fashion,GB,Low
